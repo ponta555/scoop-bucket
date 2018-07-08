@@ -1,6 +1,10 @@
 {
-    "homepage": "http://www.faststone.org/FSViewerDetail.htm",
+    "homepage": [
+        "http://www.faststone.org/FSViewerDetail.htm",
+        "http://tiltstr.seesaa.net/article/125999663.html"
+    ],
     "version": "6.5",
+    "license": "http://faststone.org/order.htm",
     "url": [
         "http://www.faststonesoft.net/DN/FSViewer65.zip",
         "http://tiltstr.up.seesaa.net/lang6/FSIV_v6.5jp3.zip"
@@ -47,6 +51,7 @@
         "HisFolderList.db"
     ],
     "checkver": {
+        "url": "http://www.faststone.org/FSViewerDetail.htm",
         "re": "Version ([\\d.]+)"
     }
 }
