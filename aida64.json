@@ -4,7 +4,6 @@
     "license": "Proprietary|https://aida64.com/licensing",
     "url": "http://download.aida64.com/aida64extreme597.zip",
     "hash": "71643ADC71CE072AF29C3986166A5519CBC438472414A2B268FC2280C3AA1FB6",
-    "extract_dir": "Aida64",
     "bin": "aida64.exe",
     "shortcuts": [
         [
