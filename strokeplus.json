@@ -6,12 +6,12 @@
         "64bit": {
             "url": "http://www.strokesplus.com/files/StrokesPlus_2.8.6.4_x64.zip",
             "hash": "C0380DB2F51F5000834A8FDC94DA110EE70133D666F999044F3B1BB6449811B1",
-            "extract_dir": "StrokesPlus_x64_Signed"
+            "extract_dir": "StrokesPlus_x64"
         },
         "32bit": {
             "url": "http://www.strokesplus.com/files/StrokesPlus_2.8.6.4_x86.zip",
             "hash": "538E1CC70DB250CF93B428ADE77C0DF1B46559D1E3EF68E2AC62D565ECFB9CE2",
-            "extract_dir": "StrokesPlus_x86_Signed"
+            "extract_dir": "StrokesPlus_x86"
         }
     },
     "bin": "StrokesPlus.exe",
