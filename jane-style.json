@@ -16,7 +16,7 @@
         # Initialize: create user files.
         Start-Process -FilePath $dir\\Jane2ch.exe
         Start-Sleep -s 5
-        Get-Process -Name Jabe2ch | Stop-Process
+        Get-Process -Name Jane2ch | Stop-Process
     ",
     "persist": [
         "Logs",
