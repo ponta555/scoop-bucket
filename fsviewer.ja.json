@@ -1,8 +1,5 @@
 {
-    "homepage": [
-        "http://www.faststone.org/FSViewerDetail.htm",
-        "http://tiltstr.seesaa.net/article/125999663.html"
-    ],
+    "homepage": "http://www.faststone.org/FSViewerDetail.htm",
     "version": "6.5",
     "license": "http://faststone.org/order.htm",
     "url": [
